@@ -1,0 +1,112 @@
+[INFO ] 2023-01-31 08:16:05.755 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:16:16.888 [main] Log - tc_01 test is starting.
+[INFO ] 2023-01-31 08:16:44.500 [main] Log - tc_01 test is succeed.
+[INFO ] 2023-01-31 08:16:45.093 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:25:31.470 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:25:40.104 [main] Log - tc_01 test is starting.
+[INFO ] 2023-01-31 08:25:40.468 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:27:35.585 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:27:45.149 [main] Log - tc_01 test is starting.
+[INFO ] 2023-01-31 08:28:13.937 [main] Log - tc_01 test is succeed.
+[INFO ] 2023-01-31 08:28:14.771 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:31:05.807 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:31:16.519 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:31:23.655 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 08:31:24.170 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:38:12.895 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:38:25.013 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:38:25.937 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:40:36.589 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:40:44.054 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:40:44.860 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:42:11.711 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:42:21.998 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:42:27.946 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 08:42:28.666 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:49:49.845 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:51:25.277 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:51:35.393 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:51:36.232 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:52:51.687 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:53:00.170 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:53:00.912 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:54:52.610 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:55:01.608 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:55:02.206 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:56:07.568 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:56:16.308 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:56:17.348 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 08:57:29.929 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 08:57:41.998 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 08:57:42.983 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:26:54.310 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:27:05.424 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:27:11.541 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:27:12.778 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:28:51.527 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:29:01.423 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:29:07.604 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:29:08.166 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:31:49.954 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:32:00.480 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:32:06.666 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:32:07.349 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:33:11.060 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:33:20.947 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:33:21.535 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:33:56.325 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:34:06.933 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:34:13.355 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:34:14.052 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:35:25.499 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:35:35.841 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:35:36.822 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:36:33.141 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:36:43.816 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:36:50.033 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:36:50.457 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:42:37.426 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:42:49.365 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:42:49.668 [main] Log - tc_02 test is skipped.
+[INFO ] 2023-01-31 09:42:49.896 [main] Log - tc_02 test is failed.
+[INFO ] 2023-01-31 09:42:50.817 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:44:12.543 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:44:23.143 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:44:29.433 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:44:30.370 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:46:08.238 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:46:18.753 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:46:25.097 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:46:25.557 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:56:17.533 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:56:28.473 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:56:35.557 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 09:56:36.373 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 09:57:50.436 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 09:58:01.609 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 09:58:37.035 [main] Log - tc_02 test is failed.
+[INFO ] 2023-01-31 09:58:37.528 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 10:01:05.251 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 10:01:13.283 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 10:01:19.454 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 10:01:19.888 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 10:08:02.816 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 10:08:13.637 [main] Log - tc_01 test is starting.
+[INFO ] 2023-01-31 10:09:00.304 [main] Log - tc_01 test is succeed.
+[INFO ] 2023-01-31 10:09:00.779 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 10:25:16.303 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 10:25:27.682 [main] Log - tc_01 test is starting.
+[INFO ] 2023-01-31 10:26:18.003 [main] Log - tc_01 test is failed.
+[INFO ] 2023-01-31 10:26:18.599 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 10:27:00.296 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 10:27:06.612 [main] Log - tc_01 test is starting.
+[INFO ] 2023-01-31 10:27:35.153 [main] Log - tc_01 test is succeed.
+[INFO ] 2023-01-31 10:27:35.834 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 16:26:09.269 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 16:26:24.315 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 16:27:02.091 [main] Log - tc_02 test is failed.
+[INFO ] 2023-01-31 16:27:02.591 [main] Log - I am in onFinish method Playwright
+[INFO ] 2023-01-31 16:28:29.963 [main] Log - I am in onStart method Playwright
+[INFO ] 2023-01-31 16:28:40.205 [main] Log - tc_02 test is starting.
+[INFO ] 2023-01-31 16:28:55.087 [main] Log - tc_02 test is succeed.
+[INFO ] 2023-01-31 16:28:55.727 [main] Log - I am in onFinish method Playwright

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+	<listeners>
+		<listener class-name="com.accesshq.utils.listners.TestListener" />
+		<listener class-name="com.accesshq.utils.listners.AnnotationTransformer" />
+		<listener class-name="com.accesshq.utils.listners.ExtentReportListener" />
+	</listeners>
+	<test verbose="2" preserve-order="true" name="Playwright">
+		<classes>
+			<class name="com.accesshq.tests.TestSuite3">
+			</class>
+		</classes>
+	</test>
+	<!-- 
+	<test verbose="2" preserve-order="true" name="Playwright_1">
+		<classes>
+			<class name="com.accesshq.tests.TestSuite3">
+			</class>
+		</classes>
+	</test>
+	 -->
+</suite>
